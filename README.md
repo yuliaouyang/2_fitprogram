@@ -1,5 +1,5 @@
 # FitProgram
-FitProgram is a simple 30-day workout tracker designed for anyone looking to follow a consistent fitness plan and stay motivated.
+**FitProgram** is a simple 30-day workout tracker designed for anyone looking to follow a consistent fitness plan and stay motivated.
 FitProgram（フィットプログラム）は、30日間のシンプルトレーニングプランを手軽に管理・継続できるように設計されたワークアウトアプリです。
 
 ## 🔧 Core Features | 主な機能
