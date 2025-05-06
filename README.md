@@ -1,12 +1,32 @@
-# React + Vite
+# FitProgram
+FitProgram is a simple 30-day workout tracker designed for anyone looking to follow a consistent fitness plan and stay motivated.
+FitProgram（フィットプログラム）は、30日間のシンプルトレーニングプランを手軽に管理・継続できるように設計されたワークアウトアプリです。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔧 Core Features | 主な機能
+Predefined 30-day training program
+　30日間の固定トレーニングメニュー
 
-Currently, two official plugins are available:
+Easy-to-follow structure and training rules
+　わかりやすい構成とトレーニングルール
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Daily progress tracking via local storage
+　ローカルストレージによる進捗記録
 
-## Expanding the ESLint configuration
+Clean, dark-themed UI with mobile support
+　モバイル対応のダークテーマUI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack | 使用技術
+Frontend: React.js
+
+Styling: FantaCSS
+
+Language: JavaScript
+
+State: Local Storage
+
+## 📌 Project Purpose | プロジェクトの目的
+This project showcases my ability to design simple yet structured fitness apps, manage local state efficiently, and present intuitive content for user engagement.
+このプロジェクトでは、構造化されたフィットネスアプリの設計力・ローカルデータ管理・直感的なユーザー体験設計をアピールしています。
+
+## 🔗 Links | リンク
+Live: https://fitprogram.netlify.app/
